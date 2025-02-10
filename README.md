@@ -1,5 +1,5 @@
 # AI Chatbot using Deep Learning and Natural Language Processing
-* Test out my chatbot at my personal portfolio: https://ongaunjie.com
+* Test out this chatbot from [ongaunjie1](https://github.com/ongaunjie1). Changes still under process.
 * **IMPORTANT NOTE:** If the chatbot is not responding, it is because it takes about 2-5 minutes for it to spin up. This is due to the limitations of free deployments on [Render](https://render.com/). The service will go into hibernation mode after 15 minutes of inactivity.
 
 # To learn more about how it works and how to train a custom chatbot, please read below:
@@ -78,7 +78,7 @@
 
 ## Clone repository and create a python virtual environment
 ```
-git clone https://github.com/ongaunjie1/AI-Chatbot-DL-NLP.git
+git clone https://github.com/Kritagya-web/AI-Chatbot-DL-NLP.git
 cd AI-Chatbot-DL-NLP
 python -m venv venv
 venv\Scripts\activate
@@ -203,7 +203,7 @@ python app.py
 * If you have experience working with front-end frameworks such as CSS, HTML and JavaScript
 * You can refer to an chatbot UI made by me within the chatbotui folder.
 * Feel free to modify the design to your own liking.
-* To test out a live version of the chatbot, check out my portfolio. [Portfolio](https://ongaunjie.com)
+* To test out the live version of the chatbot.
 
 ### Showcase of the user interface
 ![image](https://github.com/ongaunjie1/AI-Chatbot-DL-NLP/assets/118142884/161a333c-34b0-4e7e-83d1-6468d9cef9cb)
